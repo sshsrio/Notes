@@ -17,6 +17,17 @@
 
 ![workflow](https://dotnettrickscloud.blob.core.windows.net/img/react/how-redux-works.png)
 
+## Need to Learn:
+
+- Redux Store
+- Reducers
+- Extra reducer
+- dispatch
+- useSelector
+- asyncThunk
+- Api call with addCase
+- Redux toolkit buildCase
+
 ## Resources:
 
 - https://bretcameron.medium.com/a-beginners-guide-to-redux-with-react-50309ae09a14
